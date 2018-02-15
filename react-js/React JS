@@ -1,0 +1,37 @@
+React JS
+---------------------
+1) Component based architecture:
+-Many individual components for rich UI's
+-JSX :JavaScriptHTML
+
+2) State, Props, Lifecycle methods:
+  
+  React components can have state : 
+
+  State-->We can give react component some dynamic data which we can update throughout the life of our application.
+
+  State represents components data
+
+  Props-->Parent components can send/pass data to child components 
+
+ ======================================================================================================
+ What is webpack?
+ -->Module loade for react js. There are  3 module loader
+ 1)requir.js 2)browserify 3)webpack.
+
+ It does JS minification for production environments. 
+
+
+
+ PPT points
+
+ 1) Wht is React JS
+ Javascrit library for creating user interface : Views
+
+ 2)Build a workspace with Webpack:
+
+ Webpack:
+
+app.js, init.js ==via webpack==> bundle.js or index.js or or script.js
+
+main.css,forms ==via webpack==> bundle.css
